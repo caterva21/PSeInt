@@ -5,7 +5,8 @@
 //4) ordenados desordenado
 Proceso anidado
 	Definir num1 , num2 , num3 Como Entero;
-
+	
+	escribir 'Ingre tres numeros:';
 	leer num1, num2, num3;
 	Si (num1 <> num2) y (num2 <> num3) y ( num1<> num3) Entonces
 		Si (num1 < num2 ) y (num2 < num3) Entonces
